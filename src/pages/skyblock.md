@@ -1,6 +1,6 @@
 ---
 title: "Skyblock"
-description: "Big data archiving and analisys project"
+description: "Big data archiving and analysis project"
 date: "2019-10-29"
 github: "https://github.com/Coflnet?q=Sky&type=all&language=&sort="
 ---
@@ -8,7 +8,7 @@ github: "https://github.com/Coflnet?q=Sky&type=all&language=&sort="
 ## Project sumary
 The [skyblock project](https://sky.coflnet.com) started with data archiving for the in game auction house. 
 Together with two friends I built an auction explorer on top of it.  
-Since then we extended the service with various analitics options of the in game market.
+Since then we extended the service with various analytics options of the in game market.
 Besides storing all auctions that are created we also archive the prices of the bazaar in the game as well as direct trades of users.
 
 ### About Skyblock
