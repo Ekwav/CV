@@ -9,6 +9,7 @@ layout: base.njk
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       {{ description }}
     </h2>
+    {% if github %}<a href="{{ github }}">Source code on GitHub</a>{% else %}<span></span>{% endif %}
   </div>
 </header>
 <main class="tdbc-container">
