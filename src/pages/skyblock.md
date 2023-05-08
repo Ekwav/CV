@@ -10,6 +10,7 @@ The [skyblock project](https://sky.coflnet.com) started with data archiving for 
 Together with two friends I built an auction explorer on top of it.  
 Since then we extended the service with various analytics options of the in game market.
 Besides storing all auctions that are created we also archive the prices of the bazaar in the game as well as direct trades of users.
+This project is still ongoing in 2023 and one of the few still who did not shut down. It attracts over 10k visitors per day.
 
 ### About Skyblock
 Skyblock is so called [MMORPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) on the [Hypixel Minecraft Server](https://en.wikipedia.org/wiki/Hypixel).
